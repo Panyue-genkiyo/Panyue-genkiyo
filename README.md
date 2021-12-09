@@ -29,7 +29,8 @@ A front-end developer from China. Hope to discuss front-end technology together 
    I.love('coding!!');
    ❤️
 ```
-ちなみに日常ではアイドルグループが好きで、乃木坂のしおりちゃん推しです〜キモいオタクだけど、よろしく😇
+ちなみに日常ではアイドルグループが好きで、乃木坂のしおりちゃん推しです〜キモいオタクだけど、よろしく😇<br/>
+偶像宅,紫紫人!绪吹!<em>久保史绪里天下第一!</em>❤😊
 <div style="display:flex">
    <img src="http://p6.toutiaoimg.com/large/pgc-image/2ffd51eb70e246b79509d78cbfa5a0a8?from=detail&index=7"  height="200"/>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
