@@ -37,8 +37,6 @@ A front-end developer from China. Hope to discuss front-end technology together 
    &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://i.pinimg.com/564x/59/86/a0/5986a03f1ab35b3684dc1e7cc7091cd5.jpg" height="200"/>
    &nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://i.pinimg.com/564x/89/ab/26/89ab26a64292144b09feb16e93c7617f.jpg" height="200"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://i.pinimg.com/564x/fc/78/4b/fc784b5349ded35d28ccc23061c63a96.jpg" height="200"/>
 </div>
 
