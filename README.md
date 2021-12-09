@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+A front-end developer from China, but also <em>a cheerful boy</em>. Hope to discuss front-end technology together and make progress together😊👋!!!
+#### motto
+> 不要把你的努力当做努力,努力を努力だ思わない
+
+ちなみに日常ではアイドルグループが好きで、乃木坂のしおりちゃん推しです〜キモいオタクだけど、よろしく😇
+
+```javascript
+   console.log('I hate coding!!');
+   console.log('I hate coding!!');
+   console.log('I hate coding!!');
+   console.log('It work!!!');
+   I.love('coding!!');
+   ❤️
+```
+
+shiori
+![久保史绪里](http://p6.toutiaoimg.com/large/pgc-image/2ffd51eb70e246b79509d78cbfa5a0a8?from=detail&index=7)
