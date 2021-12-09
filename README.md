@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A front-end developer from China, but also <em>a cheerful boy</em>. Hope to discuss front-end technology together and make progress together😊👋!!!
+A front-end developer from China. Hope to discuss front-end technology together and make progress together😊👋!!!
+<em>前端开发菜鸡选手,努力学习中...</em>
+
 #### motto
 > 不要把你的努力当做努力,努力を努力だと思わない
 
