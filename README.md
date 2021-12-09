@@ -25,10 +25,10 @@ A front-end developer from China, but also <em>a cheerful boy</em>. Hope to disc
    console.log('I hate coding!!');
    console.log('I hate coding!!');
    console.log('I hate coding!!');
-   console.log('It work!!!');
+   console.log('It works!!!');
    I.love('coding!!');
    ❤️
 ```
 
-shiori
-![久保史绪里](http://p6.toutiaoimg.com/large/pgc-image/2ffd51eb70e246b79509d78cbfa5a0a8?from=detail&index=7)
+<img src="http://p6.toutiaoimg.com/large/pgc-image/2ffd51eb70e246b79509d78cbfa5a0a8?from=detail&index=7" width="200" height="200"/>
+
