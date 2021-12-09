@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 A front-end developer from China, but also <em>a cheerful boy</em>. Hope to discuss front-end technology together and make progress together😊👋!!!
 #### motto
-> 不要把你的努力当做努力,努力を努力だ思わない
+> 不要把你的努力当做努力,努力を努力だと思わない
 
 ちなみに日常ではアイドルグループが好きで、乃木坂のしおりちゃん推しです〜キモいオタクだけど、よろしく😇
 
