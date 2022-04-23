@@ -43,5 +43,3 @@ A front-end developer from China. Hope to discuss front-end technology together 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panyue-genkiyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Panyue-genkiyo&theme=radical&locale=cn" />     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panyue-genkiyo&layout=compact" />
-
