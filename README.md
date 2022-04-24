@@ -41,4 +41,7 @@ A front-end developer from China. Hope to discuss front-end technology together 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panyue-genkiyo&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panyue-genkiyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<code id="gist-bf23400b27a66d8ffd04f4b65424303d"></code>
+![001 - 1415223338599780354 (1) (1) (1) (1)](https://user-images.githubusercontent.com/84338417/164954917-370bd242-42c8-4947-88d7-8c2ab7c0284b.gif)
+
+
+
