@@ -31,17 +31,11 @@ A front-end developer from China. Hope to discuss front-end technology together 
 ```
 ちなみに日常ではアイドルグループが好きで、乃木坂のしおりちゃん推しです〜キモいオタクだけど、よろしく😇<br/>
 偶像宅,紫紫人!绪吹!<em>久保史绪里天下第一!</em>❤😊
-<div style="display:flex">
-   <img src="http://p6.toutiaoimg.com/large/pgc-image/2ffd51eb70e246b79509d78cbfa5a0a8?from=detail&index=7"  height="200"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://i.pinimg.com/564x/59/86/a0/5986a03f1ab35b3684dc1e7cc7091cd5.jpg" height="200"/>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <img src="https://i.pinimg.com/564x/fc/78/4b/fc784b5349ded35d28ccc23061c63a96.jpg" height="200"/>
-</div>
+
+![001 - 1415223338599780354 (1) (1) (1) (1)](https://user-images.githubusercontent.com/84338417/164954917-370bd242-42c8-4947-88d7-8c2ab7c0284b.gif)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panyue-genkiyo&theme=radical&locale=cn)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Panyue-genkiyo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![001 - 1415223338599780354 (1) (1) (1) (1)](https://user-images.githubusercontent.com/84338417/164954917-370bd242-42c8-4947-88d7-8c2ab7c0284b.gif)
 
 
 
